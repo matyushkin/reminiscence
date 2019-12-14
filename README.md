@@ -35,3 +35,6 @@ This repository is dedicated to processing data on a study devoted to the very f
 Планируется оформить результаты исследования в виде публикации на Medium, в pdf (с помощью LaTeX) и в других форматах, удобных для книжного чтения: epub, fb2. Публикация будет состоять из двух частей: 1) исследование со ссылками на конкретные воспоминания, 2) сами воспоминания.
 
 Предыдущие результаты исследования описаны в [текущей pdf-версии](https://github.com/matyushkin/reminiscence/blob/master/Pervye_vospominaniya_Leva_Matyushkin.pdf).
+
+Страницы проекта в социальных сетях:
+[twitter](https://twitter.com/memories_ru), [telegram](t.me/memories_ru), [facebook](https://facebook.com/firstmemoriesru), [vk](https://vk.com/first_memories)
