@@ -3,7 +3,7 @@ This repository is dedicated to processing data on a study devoted to the very f
 
 Этот репозиторий посвящен обработке данных первых воспоминаний людей. Пока основным языком является русский.
 
-Обычно респонденты отвечали на два вопроса: «Каково ваше первое воспоминание? К какому возрасту оно относится?». По возможности фиксировалось имя и пол отвечающего. Сбор ответов осуществлялся через социальные сети (vk, twitter) в форме диалога в личных сообщениях, а также анонимного опроса в [Google-форме](https://docs.google.com/forms/d/1VgxUitSX7CZqr1RTlymFTjglAZjS_AT36cbRVX-EPXA/). Часть воспоминаний была прислана на e-mail в результате распространения исследования. Ответы продолжают приниматься, поэтому если вы случайно натолкнулись на этот опрос – перед исследованием ответов заполните форму.
+Обычно респонденты отвечали на два вопроса: «Каково ваше первое воспоминание? К какому возрасту оно относится?». По возможности фиксировалось имя и пол отвечающего. Сбор ответов осуществлялся через социальные сети (vk, twitter) в форме диалога в личных сообщениях, а также анонимного опроса в [Google-форме](https://docs.google.com/forms/d/1VgxUitSX7CZqr1RTlymFTjglAZjS_AT36cbRVX-EPXA/) ([англоязычная версия формы](https://docs.google.com/forms/d/e/1FAIpQLSfPgOvrBsthWRVqycJf6SOGhsnSP6w2hR5cn65lf50xbose9w/viewform?usp=sf_link). Часть воспоминаний была прислана на e-mail в результате распространения исследования. Ответы продолжают приниматься, поэтому если вы случайно натолкнулись на этот опрос – перед исследованием ответов заполните форму.
 
 На декабрь 2019 г. собрано 643 ответа. Набор данных в текущем состоянии представлен в виде [электронной таблицы Google Drive](https://docs.google.com/spreadsheets/d/1KSirtO9hZSmVst--GiqsBPYk6hX-xOCI-SolgiafjcI/edit?usp=sharing). Также время от времени делается бэкап в файл [Reminiscence-backup.xlsx](https://github.com/matyushkin/reminiscence/blob/master/Reminiscence-backup.xlsx).
 
@@ -36,5 +36,5 @@ This repository is dedicated to processing data on a study devoted to the very f
 
 Предыдущие результаты исследования описаны в [текущей pdf-версии](https://github.com/matyushkin/reminiscence/blob/master/Pervye_vospominaniya_Leva_Matyushkin.pdf).
 
-Страницы проекта в социальных сетях:
-[twitter](https://twitter.com/memories_ru), [telegram](t.me/memories_ru), [facebook](https://facebook.com/firstmemoriesru), [vk](https://vk.com/first_memories)
+Русскоязычные страницы проекта в социальных сетях:
+[twitter](https://twitter.com/memories_ru), [telegram](t.me/memories_ru), [facebook](https://facebook.com/firstmemoriesru), [vk](https://vk.com/first_memories).
