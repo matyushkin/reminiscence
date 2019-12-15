@@ -38,4 +38,5 @@ This repository is dedicated to processing data on a study devoted to the very f
 
 Русскоязычные страницы проекта в социальных сетях:
 [twitter](https://twitter.com/memories_ru), [telegram](t.me/memories_ru), [facebook](https://facebook.com/firstmemoriesru), [vk](https://vk.com/first_memories).
+
 Social networks pages for Engilsh speakers: [twitter](https://twitter.com/en_memories) [telegram](t.me/memories_en), [facebook](https://facebook.com/firstmemoriesen), [vk](https://vk.com/first_memories_en).
