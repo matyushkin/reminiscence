@@ -34,9 +34,11 @@ This repository is dedicated to processing data on a study devoted to the very f
 
 Планируется оформить результаты исследования в виде публикации на Medium, в pdf (с помощью LaTeX) и в других форматах, удобных для книжного чтения: epub, fb2. Публикация будет состоять из двух частей: 1) исследование со ссылками на конкретные воспоминания, 2) сами воспоминания.
 
+Набор данных также планируется опубликовать отдельно на Kaggle. Датасет может представлять пользу не только как набор воспоминаний, но и для различных задач обработки текстов на естественных языках: это и переводы с русского на английский язык, и одновременно набор микротекстов, из которых выделены одушевленные сущности, предметы, запахи и пр.
+
 Предыдущие результаты исследования описаны в [текущей pdf-версии](https://github.com/matyushkin/reminiscence/blob/master/Pervye_vospominaniya_Leva_Matyushkin.pdf).
 
 Русскоязычные страницы проекта в социальных сетях:
 [twitter](https://twitter.com/memories_ru), [telegram](t.me/memories_ru), [facebook](https://facebook.com/firstmemoriesru), [vk](https://vk.com/first_memories).
 
-Social networks pages for Engilsh speakers: [twitter](https://twitter.com/en_memories) [telegram](t.me/memories_en), [facebook](https://facebook.com/firstmemoriesen), [vk](https://vk.com/first_memories_en).
+Social networks pages for Engilsh speakers: [twitter](https://twitter.com/en_memories), [telegram](t.me/memories_en), [facebook](https://facebook.com/firstmemoriesen), [vk](https://vk.com/first_memories_en).
